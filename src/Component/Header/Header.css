@@ -1,0 +1,15 @@
+.header  a{
+    
+    padding: 5px 20px;
+    text-decoration: none;
+    color: rgb(78, 163, 248);
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header  a:hover{
+    color: chocolate;
+}
+.active{
+    background-color: chocolate;
+    color: white !important;
+}
